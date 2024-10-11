@@ -1,0 +1,30 @@
+*{
+    align-items: center;
+}
+body{
+    background-color: rgb(168, 168, 168);
+}
+button{
+    color: black;
+    font-size: large;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+    
+button:hover{
+    background-color: grey;
+    color: white;
+}
+
+
+
+h1{
+    color: white;
+    
+}
+
+.number{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
